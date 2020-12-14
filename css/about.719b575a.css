@@ -1,0 +1,1 @@
+.pp{width:230px;height:230px}.pp,.pp img{border-radius:50%}.pp img{margin:auto}@media (max-width:420px){.about .bio h3{font-size:27px}.about p{font-size:15px!important}.about span a i{font-size:26px!important}}.about{-webkit-animation:open-anim .5s;animation:open-anim .5s}@-webkit-keyframes open-anim{0%{opacity:0}to{opacity:1}}@keyframes open-anim{0%{opacity:0}to{opacity:1}}
